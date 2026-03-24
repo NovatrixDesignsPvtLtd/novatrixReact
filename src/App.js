@@ -3,21 +3,30 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+    <div className="maintenance-container">
+      <div className="maintenance-card">
+        <img
+          src="https://cdn-icons-png.flaticon.com/512/564/564619.png"
+          alt="Maintenance"
+          className="maintenance-image"
+        />
+
+        <h1 className="maintenance-title">We'll Be Back Soon 🚧</h1>
+
+        <p className="maintenance-text">
+          Our website is currently undergoing scheduled maintenance.
+          <br />
+          We’re working hard to improve your experience.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+        <p className="maintenance-subtext">
+          Please check back later. Thank you for your patience 🙏
+        </p>
+
+        <div className="maintenance-footer">
+          © {new Date().getFullYear()} Novatrix Designs Pvt Ltd
+        </div>
+      </div>
     </div>
   );
 }
