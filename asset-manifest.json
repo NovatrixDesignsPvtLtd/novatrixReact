@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/novatrixReact/static/css/main.a9eab00e.css",
+    "main.js": "/novatrixReact/static/js/main.20262c23.js",
+    "static/js/453.37838bbb.chunk.js": "/novatrixReact/static/js/453.37838bbb.chunk.js",
+    "index.html": "/novatrixReact/index.html",
+    "main.a9eab00e.css.map": "/novatrixReact/static/css/main.a9eab00e.css.map",
+    "main.20262c23.js.map": "/novatrixReact/static/js/main.20262c23.js.map",
+    "453.37838bbb.chunk.js.map": "/novatrixReact/static/js/453.37838bbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9eab00e.css",
+    "static/js/main.20262c23.js"
+  ]
+}
