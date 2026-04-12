@@ -1,0 +1,2 @@
+:HL["/novatrixReact/_next/static/chunks/0dss_m8mobci9.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"klbr95KbRcQoPaA_HlvQu"}

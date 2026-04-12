@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[25954,["/novatrixReact/_next/static/chunks/01xlw8hd842-c.js","/novatrixReact/_next/static/chunks/00ftxfr2w21it.js","/novatrixReact/_next/static/chunks/0owawf..d.z1r.js"],"default"]
+3:I[97367,["/novatrixReact/_next/static/chunks/01xlw8hd842-c.js","/novatrixReact/_next/static/chunks/00ftxfr2w21it.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"p-10 bg-white text-black","children":[["$","$L2",null,{}],["$","h1",null,{"className":"text-3xl font-bold mb-4","children":"Contact Us"}],["$","form",null,{"className":"grid gap-4 max-w-md","children":[["$","input",null,{"placeholder":"Name","className":"p-3 border rounded"}],["$","input",null,{"placeholder":"Phone","className":"p-3 border rounded"}],["$","textarea",null,{"placeholder":"Requirement","className":"p-3 border rounded"}],["$","button",null,{"className":"bg-black text-white py-3 rounded","children":"Submit"}]]}]]}],[["$","script","script-0",{"src":"/novatrixReact/_next/static/chunks/0owawf..d.z1r.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"klbr95KbRcQoPaA_HlvQu"}
+5:null
